@@ -27,4 +27,8 @@ Conversion Loops: Implement automated lifecycle campaigns targeting "New" custom
 Seasonal Demand Alignment: Align procurement cycles with the identified monthly sales dips and spikes to minimize holding costs and prevent stock-outs.
 
 Dashboard Preview
+
+https://unam164-my.sharepoint.com/:u:/g/personal/224028154_students_unam_na/IQDUVtBwUFZEQYFvRhoJv9E9ARnh4tlRc7A8rVeMqb7nrlI?e=tH99bo
+
+
 <img width="632" height="356" alt="real b1 screenshot" src="https://github.com/user-attachments/assets/f9702034-0121-44f4-ba88-d4809ed48a84" />
